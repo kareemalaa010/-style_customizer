@@ -1,0 +1,19 @@
+.layout-side-section{
+    background-color: royalblue !important;
+    color: #fff !important;
+}
+
+.page-container {
+    background-color: #f8f9fa !important;
+  }
+  
+  .module-section {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .module-section .section-head {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
